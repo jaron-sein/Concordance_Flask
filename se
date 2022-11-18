@@ -1,0 +1,3 @@
+#!bin/bash
+#  se = start env
+. venv/bin/activate
